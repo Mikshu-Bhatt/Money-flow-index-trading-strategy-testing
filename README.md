@@ -14,4 +14,4 @@ After that we are  ploting Adj Close price with the buy list and sell list to vi
 
 Finally we are calculating the profit that you can gain via following this strategy.
 
-# In this strategy we are making assumption that you need to buy and sell same amount of shares all the time. you can not short sell.
+# In this strategy we are making assumption that you can not short sell.
