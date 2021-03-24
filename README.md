@@ -10,8 +10,8 @@ we are creating a function to determine when to buy and sell. we are using buy a
 
 we are giving a definite amount to use for trading.
 
-After that we are  ploting Adj Close price with the buy list and sell list to visualize the time and amount at which we are buying and selling. 
+After that we are  ploting Adj Close price with the buy list and sell list to visualize the time and amount at which we are buying and selling. We are also plotting the money flow index graph side by side.
 
 Finally we are calculating the profit that you can gain via following this strategy.
 
-# In this strategy we are making assumption that you need to buy and sell same amount of shares all the time.
+# In this strategy we are making assumption that you need to buy and sell same amount of shares all the time. you can not short sell.
