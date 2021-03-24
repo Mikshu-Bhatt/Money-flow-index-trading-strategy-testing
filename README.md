@@ -8,7 +8,7 @@ Then we are finding typical price, raw money flow, positive and negative money f
 
 we are creating a function to determine when to buy and sell. we are using buy and sell list to append the Adj Close price at which we are buying and selling.
 
-we are giving a definite amount to use for trading.
+we are giving a definite amount to use for trading and also we are keeping the trck of number of share bought and sold.
 
 After that we are  ploting Adj Close price with the buy list and sell list to visualize the time and amount at which we are buying and selling. We are also plotting the money flow index graph side by side.
 
